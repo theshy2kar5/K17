@@ -322,4 +322,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-        """Phát hiện chuyển động trong khung hình so với nền"""
